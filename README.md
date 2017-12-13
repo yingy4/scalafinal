@@ -20,7 +20,7 @@ Finally, we would give a prediction of final ranking(top 5) and the best player 
 
 # Use Case
 Input: 
-1. When you start the program, the command panel will guide you to input a season in format “**_**”, such as “13_14”.
+1. When you start the program, you should run the Main.scala. The command line will guide you to input a season between 2008 and 2015 in format “**_**”, such as "08_09", "15_16".
 
 Output:
 The program will output such results:
