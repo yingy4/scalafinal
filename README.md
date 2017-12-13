@@ -1,6 +1,7 @@
 # Premier League Prediction
 Group 07 Premier League Prediction
-Fanqi Zheng Yihang Li
+1. Fanqi Zheng
+2. Yihang Li
 
 
 # Goal
